@@ -5,11 +5,11 @@
 
 #  Student's Name: Crystal Le
 
-#  Student's UT EID: CL44964
+#  Student's UT EID: 
 
 #  Partner's Name: Johnny Tran
 
-#  Partner's UT EID: JHT825
+#  Partner's UT EID: 
 
 #  Course Name: CS 313E 
 
