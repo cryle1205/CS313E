@@ -17,11 +17,11 @@ ensure your answer is correct.
 
 #  Student Name: Johnny Tran
 
-#  Student UT EID: jht825
+#  Student UT EID: 
 
 #  Partner Name: Crystal Le
 
-#  Partner UT EID: cl44964
+#  Partner UT EID: 
 
 #  Course Name: CS 313E
 
