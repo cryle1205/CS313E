@@ -1,4 +1,4 @@
-<img align="right" height="35" bottom="0" alt="Python" src="https://mpng.subpng.com/20180811/pul/kisspng-python-general-purpose-programming-language-comput-python-programming-language-symphony-solution-5b6ee0c863a5a1.6306397415339931604082.jpg">
+<img align="right" height="35" bottom="0" alt="Python" src="https://spng.subpng.com/20180712/jrh/kisspng-professional-python-programmer-computer-programmin-python-logo-download-5b47725bdc5820.2110724115314089879026.jpg">
 
 # CS313E - Elements of Software Design
 
