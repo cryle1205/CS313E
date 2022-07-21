@@ -6,7 +6,7 @@
 
 #  Student Name: Crystal Le
 
-#  Student UT EID: CL44964
+#  Student UT EID: 
 
 #  Partner Name: Johnny Tran
 
@@ -14,7 +14,7 @@
 
 #  Course Name: CS 313E
 
-#  Unique Number:51120
+#  Unique Number:
 
 #  Date Created: 02/11/2022
 
